@@ -1,1 +1,0 @@
-const sabaka = 1111;
